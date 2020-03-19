@@ -11,4 +11,4 @@ n4 =  float(input("Digite a quarta nota: "))
 
 media = (n1 + n2 + n3 + n4) / 4
 
-print(f"Média: {media}")
+print(f"A média é: {media}")
