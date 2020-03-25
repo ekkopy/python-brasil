@@ -11,9 +11,8 @@ def ler_numero(nota = None):
     if nota >= 0 and nota <= 10:
         print(f"Nota valida: {nota}")
         return False # Quebra o loop
-        exit
     else:
-        print(f"Nota invalida: {nota}\nPor favor informe uuma nota entre zero e dez!")
+        print(f"Nota invalida: {nota}\nPor favor informe uma nota entre zero e dez!")
         ler_numero(nota)
 
 while(ler_numero()):
