@@ -4,7 +4,7 @@ crescA = 0
 while popA <= 0:
     popA = int(input("Informe a populacao do pais A: "))
     if popA <= 0:
-        print(f"Populacao deve ser um valor positivo! {popaA}")
+        print(f"Populacao deve ser um valor positivo! {popA}")
 
 while crescA <= 0:
     crescA = float(input("Informe o percentual de crescimento do pais A: "))
