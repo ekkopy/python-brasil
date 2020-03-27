@@ -12,4 +12,3 @@ for x in range(1, 4):
         input("Digite o " + str(x) + " numero: ")))
 
 print(f"Somatório: {somarArgs(numeros)}")
-
