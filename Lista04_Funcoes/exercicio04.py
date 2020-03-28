@@ -5,8 +5,7 @@ def returnElement(number) -> str:
         return 'P'
     return 'N'
 
-
 print(returnElement(
-    int(input("Digite um numero: "))
+       int(input("Digite um numero: "))
     )
 )
