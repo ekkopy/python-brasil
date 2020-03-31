@@ -28,7 +28,7 @@ with open(caminho, 'r') as arquivo_original:
 
 print(f"Gravando conteúdo no arquivo d FIND_arquivo_original.txt\n")
 
-with open('FIND_arquivo_original', 'w+') as arquivo_find:
+with open('FIND_arquivo_original.txt', 'w+') as arquivo_find:
     arquivo_find.write('Arquivo Original\n')
     arquivo_find.write(f"Palavra procurada{palavra}\n")
     for x in mydct:
