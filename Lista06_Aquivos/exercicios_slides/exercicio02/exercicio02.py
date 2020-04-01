@@ -15,7 +15,7 @@ Verifique em todos os arquivos texto (.txt) quais as linhas contêm a palavra. T
 [<Nome do arquivo original N>][<nº linha>]<linha de texto>
 """
 caminho = input("Informe o diretório para leitura: ")
-assert path.exists(caminho), f"Diretório não encontrado! {caminho}"
+assert path.exists(caminho), f"Diretório não encontrado: {caminho}"
 
 palavraProcurada = input("Qual palavra deseja procurar? ")
 lista_arquivos = []
