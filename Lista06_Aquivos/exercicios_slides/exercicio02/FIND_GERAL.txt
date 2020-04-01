@@ -1,0 +1,7 @@
+Arquivo: arquivo01.txt - Linha: 1 - Palavra: Thiago
+Arquivo: arquivo01.txt - Linha: 2 - Palavra: Thiago
+Arquivo: arquivo01.txt - Linha: 17 - Palavra: Thiago
+Arquivo: arquivo02.txt - Linha: 1 - Palavra: Thiago
+Arquivo: arquivo02.txt - Linha: 2 - Palavra: Thiago
+Arquivo: arquivo02.txt - Linha: 3 - Palavra: Thiago
+Arquivo: arquivo02.txt - Linha: 4 - Palavra: Thiago
