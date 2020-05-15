@@ -13,7 +13,7 @@ print("""
    #    # #      #   #   #  #  #      #   #  
     ####  ###### #    #   ##   ###### #    # 
 
-   [*] Author: ekkopy
+   [*] Author: Thiago Martins AKA ekkopy
    [*] Date: 04/09/2020
    [*] GitHub: https://github.com/ekkopy                                         
 """)
